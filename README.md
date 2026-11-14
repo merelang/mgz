@@ -24,7 +24,7 @@ program — so another project can vendor mgz and import them. `mgzip.mere` and
 
 ```sh
 cd my_app
-git clone https://github.com/284km/mgz .mere_modules/mgz
+git clone https://github.com/merelang/mgz .mere_modules/mgz
 ```
 
 ```mere
